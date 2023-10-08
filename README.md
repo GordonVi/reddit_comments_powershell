@@ -4,13 +4,23 @@
 
 ## Right click and Run with Powershell
 
+
+
+
+
 ![Picture 1](https://github.com/GordonVi/reddit_comments_powershell/blob/main/documentation/reddit_comment_powershell_1.jpg?raw=true)
 
 ## The purple and green boxes are censors
 
+
+
+
+
 ![Picture 2](https://github.com/GordonVi/reddit_comments_powershell/blob/main/documentation/reddit_comment_powershell_2.jpg?raw=true)
 
 ## The purple boxes are censors
+
+
 
 # Features
 
