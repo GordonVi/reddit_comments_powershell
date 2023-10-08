@@ -32,7 +32,7 @@
 
 ![Picture 2](https://github.com/GordonVi/reddit_comments_powershell/blob/main/documentation/reddit_comment_powershell_2.jpg?raw=true)
 
-## type in the string you want to search for
+## [search.ps1] type in the string you want to search for
 *The purple boxes are censors*
 <br>
 <br>
