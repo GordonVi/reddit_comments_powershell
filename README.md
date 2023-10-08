@@ -4,8 +4,7 @@
 
 ## Right click and Run with Powershell
 
-
-
+<br>
 
 
 ![Picture 1](https://github.com/GordonVi/reddit_comments_powershell/blob/main/documentation/reddit_comment_powershell_1.jpg?raw=true)
